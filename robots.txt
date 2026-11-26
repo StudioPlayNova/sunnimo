@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xoainatv2018.github.io/sunnimo/sitemap.xml
+Sitemap: https://studioplaynova.github.io/sunnimo/sitemap.xml
